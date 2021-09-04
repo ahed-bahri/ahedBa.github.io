@@ -86,7 +86,7 @@
 
 .button.primary-button{
     margin-top: 15px;
-    background: #101e8d;
+    background: #0e55a7;
     color: whitesmoke;
     box-shadow: 0px 10px 30px rgba(57,56,61,0.205);
 }
@@ -98,7 +98,7 @@
 
 .button.secondary-button{
     margin-top: 15px;
-    background: #006221;
+    background: #590bc5;
     color: whitesmoke;
     box-shadow: 0px 10px 30px rgba(57,56,61,0.205);
 }
@@ -284,6 +284,9 @@ btn.active{
     box-shadow: none !important;
 }
 
+.redirectLink{
+    color: #174499;
+}
 
 .site-main .project-area .grid .our-project .img a:hover{
     filter: brightness(1.1) drop-shadow(1px 8px 30px #b1afaf);
