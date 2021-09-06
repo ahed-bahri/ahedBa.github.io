@@ -305,6 +305,352 @@ btn.active{
 /* ========== End Project Area ==========  */
 
 /* ========== Start about me Area ==========  */
+
+
+/* ========== Responsive website ==========  */
+
+@media only screen and (max-width :340px){
+
+    /* .site-main .site-banner .site-title h1{
+        font-size: 41px;
+    }
+    .site-main .subscribe-us-area .subsribe form .input-text input{
+        width:15rem !important;
+    }
+    .site-main .subscribe-us-area .services {
+        width:13rem;
+    } */
+
+    .site-main .brand-area .first-row .col-sm-6{
+        width: 50%;
+        justify-content: center;
+    }
+
+    .customImg {
+        margin-left: -60px;
+        padding-top: 20px;
+    }
+    .site-main .site-banner .site-title h1 {
+        padding-top: 10px;
+        padding-bottom: 5px;
+    }
+
+    .site-main .site-banner .site-title h3 {
+        padding-top: 19%;
+    }
+
+    .servicesEdit{
+        margin-top: 115px;
+    }
+
+    .site-main .services-area .services-title {
+        padding-left: 50px;
+    }
+
+
+    a.navbar-brand.logoSm {
+        padding-left: 134px;
+    }
+
+    button.navbar-toggler.modifSmNav {
+        margin-left: 126px;
+        margin-top: 5px;
+    }
+
+    .site-main .about-area {
+         padding: 0 0 0 0; 
+    }
+
+
+    .site-main .brand-area {
+        padding: 41px 10px;
+        margin-bottom: 4rem;
+    }
+
+    .site-main .services-area .services-title {
+        padding-right: 10%;
+    }
+
+    .site-main > .services-area .services {
+        margin: 1rem .5rem; 
+    }
+    i.editPassion {
+        font-size: 21px;
+    }
+
+    .soSmall {
+        padding-left: 65px;
+    }
+
+    .paraTest {
+        padding: 0rem !important;
+    }
+
+    .site-main .about-area .client .client-img {
+        padding: 2rem;
+    }
+
+    .sig {
+        margin-bottom: -13px;
+        margin-top: -87px;
+        margin-left: -46px;
+    }
+
+    .owl-item { width : 330px !important; }
+
+
+}
+
+@media (min-width: 320px) and (max-width: 480px) { 
+
+
+    .mfp-bg{
+        top: 0;
+        left: 0;
+        width: 420px;
+        height: 100%;
+        z-index: 1042;
+    }
+
+
+
+    .site-main .brand-area .first-row .col-sm-6{
+        width: 50%;
+        justify-content: center;
+    }
+
+    .customImg {
+        margin-left: -60px;
+        padding-top: 20px;
+    }
+    .site-main .site-banner .site-title h1 {
+        padding-top: 10px;
+        padding-bottom: 5px;
+    }
+
+    .site-main .site-banner .site-title h3 {
+        padding-top: 19%;
+    }
+
+    .servicesEdit{
+        margin-top: 115px;
+    }
+
+    .site-main .services-area .services-title {
+        padding-left: 50px;
+    }
+
+
+    a.navbar-brand.logoSm {
+        padding-left: 134px;
+    }
+
+    button.navbar-toggler.modifSmNav {
+        margin-left: 126px;
+        margin-top: 5px;
+    }
+
+    .site-main .about-area {
+         padding: 0 0 0 0; 
+    }
+
+
+    .site-main .brand-area {
+        padding: 41px 10px;
+        margin-bottom: 4rem;
+    }
+
+    .site-main .services-area .services-title {
+        padding-right: 10%;
+    }
+
+    .site-main > .services-area .services {
+        margin: 1rem .5rem; 
+    }
+    i.editPassion {
+        font-size: 21px;
+    }
+
+    .soSmall {
+        padding-left: 65px;
+    }
+
+    .paraTest {
+        padding: 0rem !important;
+    }
+
+    .site-main .about-area .client .client-img {
+        padding: 2rem;
+    }
+
+    .sig {
+        margin-bottom: -13px;
+        margin-top: -87px;
+        margin-left: -46px;
+    }
+
+    .owl-item { width : 330px !important; }
+
+
+ }
+
+ @media (min-width: 481px) and (max-width: 767px) { 
+
+    .customImg {
+        margin-left: -60px;
+        padding-top: 20px;
+        width: 500px;
+    }
+
+    .downloading{
+        margin-left:20px;
+        width: 300px;
+    }
+
+    .hire {
+        margin-left: 50px;
+        width: 350px;
+    }
+    .button.secondary-button {
+        width: 350px;   
+        margin-left: 50px;
+    }
+    .site-main .brand-area .first-row .col-sm-6{
+        width: 50%;
+        justify-content: center;
+    }
+
+    .site-main .site-banner .site-title h1 {
+        padding-top: 10px;
+        padding-bottom: 5px;
+    }
+
+    .site-main .site-banner .site-title h3 {
+        padding-top: 19%;
+    }
+
+    .servicesEdit{
+        margin-top: 115px;
+    }
+
+    .site-main .services-area .services-title {
+        padding-left: 50px;
+    }
+
+
+    a.navbar-brand.logoSm {
+        padding-left: 134px;
+    }
+
+    button.navbar-toggler.modifSmNav {
+        margin-left: 126px;
+        margin-top: 5px;
+    }
+
+    .site-main .about-area {
+         padding: 0 0 0 0; 
+    }
+
+
+    .site-main .brand-area {
+        padding: 41px 10px;
+        margin-bottom: 4rem;
+    }
+
+    .site-main .services-area .services-title {
+        padding-right: 10%;
+    }
+
+    .site-main > .services-area .services {
+        margin: 1rem .5rem; 
+    }
+    i.editPassion {
+        font-size: 21px;
+    }
+
+    .soSmall {
+        padding-left: 65px;
+    }
+
+    .paraTest {
+        padding: 0rem !important;
+    }
+
+    .site-main .about-area .client .client-img {
+        padding: 2rem;
+    }
+
+    .sig {
+        margin-bottom: -13px;
+        margin-top: -87px;
+        margin-left: -46px;
+    }
+
+    .owl-item { width : 330px !important; }
+
+
+}
+
+@media (min-width: 768px) and (max-width: 1024px) { 
+  
+    .img-fluid{
+        max-width: 113%;
+        height: 100%;
+    }
+
+}
+
+@media only screen and (max-width :792px){
+    .site-main .about-area .about-title h2>span {
+        font-size: 31px;
+        letter-spacing: 10px;
+    }
+    .site-main .brand-area .experience-area .years-area{
+        padding-left:1%;
+        width:49%;
+    }
+
+    .site-main .brand-area .experience-area .bg-panel{
+        margin-left: 30%;
+        width: 80%;
+    }
+    .site-main .brand-area .experience-area .call-area{
+        padding-left: 3%;
+    }
+    .site-main .brand-area .button-group button{
+        font:normal 500 18px/40px ;
+        font-family: "Merriweather";
+    }
+
+     .site-main .about-area .about-title p{
+         padding:0%
+     }
+     .site-main .subscribe-us-area .subsribe form .input-textbox input{
+         width: 20rem;
+         margin:5%;
+     }
+}
+
+@media only screen and (max-width :1910){
+    .header_area .main-menu .navbar{
+        padding:1rem;
+    }
+    .container{
+        max-width: 90%;
+    }
+    .site-main .brand-area,
+    .site-main .services-area .services-title,
+    .site-main .about-area{
+        padding:3% 4%;
+    }
+
+}
+
+
+
+
+
+
 .site-main .about-area .about-title p{
     padding: 1rem 7rem;
 }
@@ -344,6 +690,7 @@ btn.active{
     width: 12px;
     height: 12px;
 }
+
 
 /* ========== End about me Area ==========  */
 
@@ -444,73 +791,4 @@ footer.footer-area .social a:hover > .fa-behance{
 .articles{
     padding-top: 15px;
     padding-bottom: 55px;
-}
-
-/* ========== Responsive website ==========  */
-@media only screen and (max-width :340px){
-    .header_area .main-menu .navbar,
-    .header_area .main-menu .navbar .navbar-brand,
-    .site-main .subscribe-us-area .subsribe .subscribe-title
-    .site-main .subscribe-us-area .subsribe .subscribe-title p, h4,
-    .site-main .subscribe-us-area,
-    .site-main .subscribe-us-area .subsribe {
-        padding:4%;
-        margin:0%;
-    }
-
-    .site-main .site-banner .site-title h1{
-        font-size: 41px;
-    }
-    .site-main .subscribe-us-area .subsribe form .input-text input{
-        width:15rem !important;
-    }
-    .site-main .subscribe-us-area .services {
-        width:13rem;
-    }
-}
-
-@media only screen and (max-width :792px){
-    .site-main .about-area .about-title h2>span {
-        font-size: 31px;
-        letter-spacing: 10px;
-    }
-    .site-main .brand-area .experience-area .years-area{
-        padding-left:1%;
-        width:49%;
-    }
-
-    .site-main .brand-area .experience-area .bg-panel{
-        margin-left: 30%;
-        width: 80%;
-    }
-    .site-main .brand-area .experience-area .call-area{
-        padding-left: 3%;
-    }
-    .site-main .brand-area .button-group button{
-        font:normal 500 18px/40px ;
-        font-family: "Merriweather";
-    }
-
-     .site-main .about-area .about-title p{
-         padding:0%
-     }
-     .site-main .subscribe-us-area .subsribe form .input-textbox input{
-         width: 20rem;
-         margin:5%;
-     }
-}
-
-@media only screen and (max-width :1910){
-    .header_area .main-menu .navbar{
-        padding:1rem;
-    }
-    .container{
-        max-width: 90%;
-    }
-    .site-main .brand-area,
-    .site-main .services-area .services-title,
-    .site-main .about-area{
-        padding:3% 4%;
-    }
-
 }
